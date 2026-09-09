@@ -11,7 +11,7 @@ title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's personal homepage — PhD candidate (Ph.D. in Computer Science, HKUST) at the HKUST NLP Group"
 url                      : https://wallacesab.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "/LJT-Homepage" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wallacesab/LJT-Homepage"
 
 # Site Author
