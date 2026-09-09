@@ -1,18 +1,14 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Junteng Liu:
+  name        : "Junteng Liu"
+  uri         : "https://wallacesab.github.io/LJT-Homepage"
+  email       : "jliugi@connect.ust.hk"
+  bio         : "First-year PhD candidate at HKUST NLP Group, in the Ph.D. in Computer Science program at the Hong Kong University of Science and Technology (HKUST). Research focuses on natural language processing and machine learning, with interests in LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), and LLM truthfulness and Interpretability."
+  avatar      : "profile.png"
+  location    : "Hong Kong"
+  employer    : "HKUST NLP Group"
+  twitter     : "junteng88716710"
+  google_plus :
+  github      : "Vicent0205"
+  googlescholar: "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
